@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Chhatra\source\repos\OpenglCGAssignment\OBJ_Loader.h(949,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chhatra\source\repos\OpenglCGAssignment\main.cpp(169,29): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Chhatra\source\repos\OpenglCGAssignment\main.cpp(170,29): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Chhatra\source\repos\OpenglCGAssignment\main.cpp(171,29): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Chhatra\source\repos\OpenglCGAssignment\main.cpp(387,64): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OpenglCGAssignment.vcxproj -> C:\Users\Chhatra\source\repos\OpenglCGAssignment\x64\Debug\OpenglCGAssignment.exe

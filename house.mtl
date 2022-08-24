@@ -1,0 +1,36 @@
+# Blender MTL File: 'house.blend'
+# Material Count: 3
+
+newmtl clay
+Ns 87.293398
+Ka 1.000000 1.000000 1.000000
+Kd 0.426739 0.068595 0.014213
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Chhatra\\Downloads\\pngwing.com.png
+
+newmtl hd-wallpaper-ga4455ac3d_1920
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Chhatra\\Pictures\\blendertexture\\newhousetexture.png
+map_d C:\\Users\\Chhatra\\Pictures\\blendertexture\\newhousetexture.png
+
+newmtl roof_village
+Ns 55.867775
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.409091 0.409091 0.409091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Chhatra\\Pictures\\blendertexture\\newhousetexture.png
